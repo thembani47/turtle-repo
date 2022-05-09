@@ -54,4 +54,4 @@ for i in range(30):
         die_roll2 = random.choice(die)
         player_2.forward(20 * die_roll2)
         time.sleep(1)
-turtle.done()
+#turtle.done()
